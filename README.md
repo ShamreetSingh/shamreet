@@ -93,7 +93,7 @@ Grow More, Earn More – With Kissan!
         <a href="#">Contact</a>
     </nav>
     
-    <h1>Welcome to KISSAN🚀</h1>
+ <h1>Welcome to KISSAN🚀</h1>
     <div class="slider">
         <div class="slides">
             <div class="slide">Vegetable Seeds</div>
