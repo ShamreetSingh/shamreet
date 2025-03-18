@@ -62,6 +62,7 @@ Grow More, Earn More – With Kissan!
     <footer>
         &copy; 2025 KISSAN. All rights reserved.
     </footer>
+    <!--
     <script>
         let index = 0;
         function showSlides() {
@@ -73,7 +74,7 @@ Grow More, Earn More – With Kissan!
             slides.style.transform = `translateX(-${index * 100}%)`;
         }
         setInterval(showSlides, 3000);
-    </script>
+    </script> -->
 </body>
 </html>
 
