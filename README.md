@@ -45,9 +45,10 @@ Grow More, Earn More – With Kissan!
 </body>
 </html>
 
+
 Names of all teammates-
-Krishna Nautiyal
-Shamreet Singh
-Soanam Norphel Negi
-Saksham
+Krishna Nautiyal,
+Shamreet Singh,
+Soanam Norphel Negi,
+Saksham,
 Shivam
