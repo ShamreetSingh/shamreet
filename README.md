@@ -10,7 +10,7 @@ Expert Tips & Community – Get insights, guidance, and support from fellow farm
 With a user-friendly interface, competitive prices, and reliable delivery, Kissan is here to support farmers at every step of their journey.
 Grow More, Earn More – With Kissan!
 
-
+<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -84,7 +84,7 @@ Grow More, Earn More – With Kissan!
             bottom: 0;
         }
     </style>
-</head>
+</head>-->
 <body>
     <nav>
         <a href="#">Home</a>
