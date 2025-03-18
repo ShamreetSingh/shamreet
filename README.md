@@ -38,43 +38,7 @@ Grow More, Earn More – With Kissan!
         h1 {
             color: #3498db;
         }
-        .slider {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            position: relative;
-            height: 100px;
-        }
-        .slides {
-            display: flex;
-            transition: transform 0.5s ease-in-out;
-        }
-        .slide {
-            min-width: 100%;
-            font-size: 30px;
-            font-weight: bold;
-            color: white;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            height: 100px;
-            border-radius: 10px;
-        }
-        .slide:nth-child(1) { background-color: #ff7f7f; }
-        .slide:nth-child(2) { background-color: #77ff77; }
-        .slide:nth-child(3) { background-color: #7f7fff; }
-        .btn {
-            background-color: #2ecc71;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            cursor: pointer;
-            font-size: 18px;
-            margin-top: 20px;
-        }
-        .btn:hover {
-            background-color: #27ae60;
-        }
+        
         footer {
             background-color: #333;
             color: white;
