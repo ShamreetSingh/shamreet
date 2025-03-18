@@ -58,13 +58,6 @@ Grow More, Earn More – With Kissan!
     </nav>
     
  <h1>Welcome to KISSAN🚀</h1>
-    <div class="slider">
-        <div class="slides">
-            <div class="slide">Vegetable Seeds</div>
-            <div class="slide">Flower Seeds</div>
-            <div class="slide">Pesticides</div>
-        </div>
-    </div>
     <button class="btn">Click Me!</button>
     <footer>
         &copy; 2025 KISSAN. All rights reserved.
