@@ -10,6 +10,7 @@ Expert Tips & Community – Get insights, guidance, and support from fellow farm
 With a user-friendly interface, competitive prices, and reliable delivery, Kissan is here to support farmers at every step of their journey.
 Grow More, Earn More – With Kissan!
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -93,7 +94,6 @@ Grow More, Earn More – With Kissan!
     </nav>
     
     <h1>Welcome to KISSAN🚀</h1>
-    
     <div class="slider">
         <div class="slides">
             <div class="slide">Vegetable Seeds</div>
@@ -101,13 +101,10 @@ Grow More, Earn More – With Kissan!
             <div class="slide">Pesticides</div>
         </div>
     </div>
-    
     <button class="btn">Click Me!</button>
-    
     <footer>
         &copy; 2025 KISSAN. All rights reserved.
     </footer>
-
     <script>
         let index = 0;
         function showSlides() {
